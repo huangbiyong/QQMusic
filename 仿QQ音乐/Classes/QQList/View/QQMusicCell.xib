@@ -26,22 +26,22 @@
                         </constraints>
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W25-1z-Ml8">
-                        <rect key="frame" x="65" y="53" width="0.0" height="0.0"/>
+                        <rect key="frame" x="65" y="49.5" width="0.0" height="0.0"/>
                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6yR-xo-3W2">
-                        <rect key="frame" x="65" y="3" width="0.0" height="0.0"/>
+                        <rect key="frame" x="65" y="8" width="0.0" height="0.0"/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <nil key="highlightedColor"/>
                     </label>
                 </subviews>
                 <constraints>
-                    <constraint firstAttribute="bottom" secondItem="W25-1z-Ml8" secondAttribute="bottom" constant="4.5" id="EK0-jc-q6r"/>
+                    <constraint firstAttribute="bottom" secondItem="W25-1z-Ml8" secondAttribute="bottom" constant="8" id="EK0-jc-q6r"/>
                     <constraint firstItem="LgK-2E-5UR" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="VNs-9L-dTe"/>
-                    <constraint firstItem="6yR-xo-3W2" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="3" id="h5y-fS-Z85"/>
+                    <constraint firstItem="6yR-xo-3W2" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="h5y-fS-Z85"/>
                     <constraint firstItem="W25-1z-Ml8" firstAttribute="leading" secondItem="LgK-2E-5UR" secondAttribute="trailing" constant="15" id="qr2-8h-4Y2"/>
                     <constraint firstItem="LgK-2E-5UR" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="tPs-9v-9JS"/>
                     <constraint firstItem="6yR-xo-3W2" firstAttribute="leading" secondItem="LgK-2E-5UR" secondAttribute="trailing" constant="15" id="yVa-vJ-Qdg"/>
